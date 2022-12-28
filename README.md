@@ -7,3 +7,7 @@ In the context of banking, customer churn refers to customers leaving a bank and
 There are many factors that can contribute to customer churn in the banking industry, such as dissatisfaction with service, high fees or charges, or a lack of convenient or innovative services. Banks may also face competition from other financial institutions that offer more attractive products or services.
 
 in this project, i did analysis about why customer churn from bank and how to retain them based on data.
+
+Why?
+<img width="169" alt="image" src="https://user-images.githubusercontent.com/85125450/209783056-73eb1037-8892-4e11-bc94-1b8aecffa1d1.png">
+around 20.37% customer is churning. if we can know why they are churning, it can increase company profits by 25-95% ( Gallo in Harvard Business Review (2014)).
