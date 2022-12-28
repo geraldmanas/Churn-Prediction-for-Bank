@@ -30,3 +30,15 @@ we also conclude that As many as 13.02% of customers who do churn are inactive c
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/85125450/209783932-54cb5b8f-6719-4c80-813f-b27f01c64db1.png">
 
 also Customers with more than 2 products tend to churn.
+
+In this project, we are using machine learning to predict customer churning based on data that we have. We did it using difference model such as XGBoost, Random Forest Classifier, Adaboost Classifier, Decision Tree, K-Nearest Neighbor, and Logistic Regression. 
+
+<img width="803" alt="image" src="https://user-images.githubusercontent.com/85125450/209784377-13858a1e-a15c-49e7-8044-5183a3e40ea5.png">
+
+Based on all the tuned models, the model that has the best AUC metric results is the XGBoost Classifier. From the tuned Machine Learning model, we select the top four (4) Feature Importance for us to provide Business Recommendations which is Number Of Products, Age, Active Member, and Geography. 
+
+<img width="445" alt="image" src="https://user-images.githubusercontent.com/85125450/209784614-935dcd1e-2afe-480a-ad78-44c5cbca9418.png">
+
+Based on it, we can give our recommendation which is Add value and/or bonus schemes to purchases of more than two products (bundling packages, reduce tax and interest costs, provide small-scale vouchers/rewards, add product services), Providing financial offers to customers in the age range of 40-60 years (home loan programs, car loans) and offering a Financial Wellness Program for each customer, Provide non-provocative notifications for inactive members and provide several promotions/one-time big promotions (cashback/discounts/bundling deals) based on previous product usage/purchases, and Adding product value to branches in Germany (bundling packages, reducing tax and interest costs, providing small-scale vouchers/rewards, adding product services), and speeding up and simplifying Customer Service schemes to make it more convenient to access.
+
+
